@@ -1,2 +1,3 @@
 Thie file is to learn git
-GiT is a version control system
+Git is a version control system
+git is free
