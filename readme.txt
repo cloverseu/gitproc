@@ -11,3 +11,5 @@ push dev to origin
 push in the local
 i have a proble
 operate in the local
+dev from github
+
