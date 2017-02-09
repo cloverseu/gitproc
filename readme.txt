@@ -6,3 +6,4 @@ merge feature and master
 add branch dev
 add subdev
 merge branch dev subdev
+bug is done
