@@ -7,3 +7,5 @@ add branch dev
 add subdev
 merge branch dev subdev
 bug is done
+current is working,but must to modify bug
+
