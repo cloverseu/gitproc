@@ -8,3 +8,4 @@ add subdev
 merge branch dev subdev
 current is working,but must to modify bug
 push dev to origin
+dev from github
