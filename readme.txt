@@ -10,3 +10,4 @@ bug is done
 current is working,but must to modify bug
 push dev to origin
 push in the local
+i have a proble
