@@ -9,6 +9,7 @@ merge branch dev subdev
 <<<<<<< HEAD
 bug is done
 current is working,but must to modify bug
+add in the github
 
 =======
 current is working,but must to modify bug
