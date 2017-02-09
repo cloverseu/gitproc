@@ -5,3 +5,4 @@ create a new branch
 merge feature and master
 add branch dev
 add subdev
+merge branch dev subdev
